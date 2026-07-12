@@ -1,3 +1,12 @@
 GEMINI.md
 playground_series/predicting_stellar_class/submission.csv
 .vscode/settings.json
+playground_series/predictining_student_health_risk/data/sample_submission.csv
+playground_series/predictining_student_health_risk/data/test.csv
+playground_series/predictining_student_health_risk/data/train.csv
+playground_series/predicting_irrigation_need/data/sample_submission.csv
+playground_series/predicting_irrigation_need/data/test.csv
+playground_series/predicting_irrigation_need/data/train.csv
+playground_series/predictining_student_health_risk/.DS_Store
+playground_series/.DS_Store
+.DS_Store
