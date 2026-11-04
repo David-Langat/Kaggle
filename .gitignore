@@ -19,3 +19,7 @@ playground_series/predictining_student_health_risk/submission.csv
 playground_series/predicting_airline_satisfaction/data/test.csv
 playground_series/predicting_airline_satisfaction/data/sample_submission.csv
 playground_series/predicting_airline_satisfaction/data/train.csv
+playground_series/predicting_credit_card_fraud/data/test.csv
+playground_series/predicting_credit_card_fraud/data/sample_submission.csv
+playground_series/predicting_credit_card_fraud/data/train.csv
+playground_series/predicting_credit_card_fraud/.DS_Store
